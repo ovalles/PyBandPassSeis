@@ -28,7 +28,7 @@ Linux
 
     ::
 
-    $ git clone https://github.com/ovalles/Seismic_RadonFilt.git   
+    $ git clone https://github.com/ovalles/PyBandPassSeis.git   
 
 
 *************
@@ -48,13 +48,13 @@ Download the latest version from `GitHub`_. If you have ``git`` installed, you c
 
 ::
 
-$ git clone https://github.com/ovalles/Seismic_RadonFilt.git
+$ git clone https://github.com/ovalles/PyBandPassSeis.git
 
 Finally, enter the newly created directory containing the source code and run:
 
 ::
 
-$ python taupi.py
+$ python bandpass.py
 
 
 ===========
@@ -76,11 +76,11 @@ Licensed under the `GPLv2`_ license.
 Authors
 =======
 
-`Asdrubal Ovalles`_  and Luis Martinez
+`Asdrubal Ovalles`_ 
 
 .. _Asdrubal Ovalles: https://www.linkedin.com/in/asdr%C3%BAbal-ovalles-8401a352
 
-Made in Venezuela, 2016
+Made in Venezuela, 2015
 
 =======
 
